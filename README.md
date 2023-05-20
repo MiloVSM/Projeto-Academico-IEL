@@ -77,8 +77,8 @@ Também gostaria de agradecer aos professores e orientadores que nos apoiaram ao
 
 ## Contato
 
-  - E-mail: joel.pessoal.cruz@gmail.com
-  - LinkedIn: https://www.linkedin.com/in/joel-cruz-a814b71a2/
+  - E-mail: murilo1.0@outlook.com
+  - LinkedIn: https://www.linkedin.com/in/milovsm/
 
 
 Fique à vontade para entrar em contato comigo caso tenha alguma pergunta, sugestão ou feedback relacionado a este projeto. Estou disponível para ajudar e discutir possíveis melhorias.
